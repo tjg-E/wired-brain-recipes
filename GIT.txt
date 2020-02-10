@@ -1,0 +1,8 @@
+tgtg
+pwd - where am i at directory
+cd .. = 1 directory up
+cd ~ = go to home directory
+dir = list files in directory
+copy con = new empty file
+mkdir = new empty folder
+git help = help
